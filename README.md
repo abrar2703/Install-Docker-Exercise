@@ -30,9 +30,24 @@ To install Docker on a machine it has to satisfy the below software and hardware
 1. 64-bit processor with Second Level Address Translation (SLAT)
 1. 4GB system RAM
 1. BIOS-level hardware virtualization support must be enabled in the BIOS settings. 
+___
 ### Procedure
-In this procedure I am sharing my experiences 
+In this procedure I am sharing my experiences when installing docker
 Do this following:
 1. visit https://docs.docker.com/desktop/windows/install/ to download Docker.
-1. Click on Docker Desktop Installer, it downloads the Docker Desktop Installer.exe file. Double click on Docker Desktop Installer.exe icon. see the following figure.
-(Install- Docker1)[]
+1. Click on **Docker Desktop for windows**, it downloads the **Docker Desktop Installer.exe** file. Double click on **Docker Desktop Installer.exe**. see the following figure.
+![Installdocker1](Images_DockerInstall/Install%201.png)
+1. Allow access to install application (For windows). The *Docker Desktop* window is prompted then it download docker packages. see the following figure.
+![Installdocker1](Images_DockerInstall/Install%202.jpg)
+1. When Download is done, *Docker Desktop* window is Transformed to *Configuration* window. In *Configuration* window ensure to check **Install required Windows components for WSL 2** then Click **OK** as shown in figure below.
+![Installdocker1](Images_DockerInstall/Install%203.jpg)
+1. *Docker Desktop 3.6.0* window is prompted and it automatically unpack the Files and install as shown in below figure
+![Installdocker1](Images_DockerInstall/Install%204.png) 
+1. The Installing *Docker 3.6.0* window is transformed and shows installation succeeded as shown in figure below. 
+![Installdocker1](Images_DockerInstall/Install%205.png) 
+1. Click on Close and restart to complete the installation process. 
+On successful installation, after restart search for Docker, and select **Docker Desktop** in the search results. See figure below
+![Installdocker1](Images_DockerInstall/Install%206.png) 
+1. Click on Docker Desktop and It loads docker application see the App interface in below figure.
+![Installdocker1](Images_DockerInstall/Install%20Docker-End.png) 
+
