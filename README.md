@@ -48,6 +48,6 @@ Do this following:
 1. Click on **Close and restart** to complete the installation process. 
 On successful installation, after restart search for Docker, and select **Docker Desktop** in the search results. See figure below
 ![Installdocker1](Images_DockerInstall/Install%206.png) 
-1. Click on Docker Desktop and It loads docker application. see the Application interface in below figure.
+1. Click on **Docker Desktop** and It loads docker application. see the Application interface in below figure.
 ![Installdocker1](Images_DockerInstall/Install%20Docker-End.png) 
 
