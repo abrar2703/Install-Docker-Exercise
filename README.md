@@ -42,33 +42,26 @@ To install Docker on a machine it has to satisfy the below software and hardware
 In this procedure I am sharing my experiences when installing docker
 Do this following:
 1. To download Docker visit https://docs.docker.com/desktop/windows/install/.
-
-2. Click on **Docker Desktop for windows**, it downloads the **Docker Desktop Installer.exe** file. Double click on **Docker Desktop Installer.exe**. see the following figure.
-
+1. Click on **Docker Desktop for windows**, it downloads the **Docker Desktop Installer.exe** file. Double click on **Docker Desktop Installer.exe**. see the following figure.
 ![Installdocker1](Images_DockerInstall/Install%201.png)
 
-3. Allow access to install application (For windows). The *Docker Desktop* window is prompted then it download docker packages. see the following figure.
+1. Allow access to install application (For windows). The *Docker Desktop* window is prompted then it download docker packages. see the following figure.
 
 ![Installdocker1](Images_DockerInstall/Install%202.jpg)
-
-4. When Download is done, *Docker Desktop* window is Transformed to *Configuration* window. In *Configuration* window ensure to check **Install required Windows components for WSL 2** then Click **OK** as shown in figure below.
+1. When Download is done, *Docker Desktop* window is Transformed to *Configuration* window. In *Configuration* window ensure to check **Install required Windows components for WSL 2** then Click **OK** as shown in figure below.
 
 ![Installdocker1](Images_DockerInstall/Install%203.jpg)
-
-5. *Docker Desktop 3.6.0* window is prompted and it automatically unpack the Files and install as shown in below figure
+1. *Docker Desktop 3.6.0* window is prompted and it automatically unpack the Files and install as shown in below figure
 
 ![Installdocker1](Images_DockerInstall/Install%204.png) 
-
-6. The Installing *Docker 3.6.0* window is transformed and shows installation succeeded as shown in figure below. 
+1. The Installing *Docker 3.6.0* window is transformed and shows installation succeeded as shown in figure below. 
 
 ![Installdocker1](Images_DockerInstall/Install%205.png)
-
-7. Click on **Close and restart** to complete the installation process. 
+1. Click on **Close and restart** to complete the installation process. 
 On successful installation and after restart, search for Docker, and select **Docker Desktop** in the search results. See figure below
 
 ![Installdocker1](Images_DockerInstall/Install%206.png) 
-
-8. Click on **Docker Desktop** and It loads docker application. see the Application interface in below figure.
+1. Click on **Docker Desktop** and It loads docker application. see the Application interface in below figure.
 
 ![Installdocker1](Images_DockerInstall/Install%20Docker-End.png) 
 
