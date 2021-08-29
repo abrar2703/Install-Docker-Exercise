@@ -24,12 +24,12 @@ Docker container has:
 ### Pre-requisite
 To install Docker on a machine it has to satisfy the below software and hardware requirements
 #### Software Requirements
-1. Windows 10 64-bit
-1. Enable the WSL 2 feature on Windows. 
+* Windows 10 64-bit
+* Enable the WSL 2 feature on Windows. 
 #### Hardware Requirements
-1. 64-bit processor with Second Level Address Translation (SLAT)
-1. 4GB system RAM
-1. BIOS-level hardware virtualization support must be enabled in the BIOS settings. 
+* 64-bit processor with Second Level Address Translation (SLAT)
+* 4GB system RAM
+* BIOS-level hardware virtualization support must be enabled in the BIOS settings. 
 ___
 ### Procedure
 In this procedure I am sharing my experiences when installing docker
