@@ -2,6 +2,7 @@
 ![Installdocker1](Images_DockerInstall/logo.png)
 ## Purpose of Docker
 Developers write a code, generate an output and make it work on his machine, when developer share there build (Developed application) to other machine then the build doesn’t work. To solve this issue **Docker** Helps to create a same environment in another machine.
+
 ## About Docker
 Docker is an application which creates a container or a image on which different elements are placed and it holds all the code and information of build. This container is portable and deployed everywhere. 
 Docker container has:
@@ -12,25 +13,31 @@ Docker container has:
 *	Networking
 *	O.S (small chunk)
 *	And more
+
 ## Features of Docker
 *	Environment Standardization 
 *	Isolation And portability
 *	Build Once and deploy everywhere
+
 ## Advantages of Docker
 * It is compatible with any programming language
 *	It allows to have a sealed and air tight container warped of code and Portable
 *	It allows to have social containers to share container in public.
+
 ## Install the Docker
+
 ### Pre-requisite
 To install Docker on a machine it has to satisfy the below software and hardware requirements
+
 #### Software Requirements
 * Windows 10 64-bit
 * Enable the WSL 2 feature on Windows. 
+
 #### Hardware Requirements
 * 64-bit processor with Second Level Address Translation (SLAT)
 * 4GB system RAM
 * BIOS-level hardware virtualization support must be enabled in the BIOS settings. 
-___
+
 ### Procedure
 In this procedure I am sharing my experiences when installing docker
 Do this following:
