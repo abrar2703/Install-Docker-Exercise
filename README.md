@@ -4,7 +4,7 @@
 Developers write a code, generate an output and make it work on his machine, when developer share there build (Developed application) to other machine then the build doesn’t work. To solve this issue **Docker** Helps to create a same environment in another machine.
 
 ## About Docker
-Docker is an application which creates a container or a image on which different elements are placed and it holds all the code and information of build. This container is portable and deployed everywhere. 
+Docker is an application which creates a container or an image on which different elements are placed and it holds all the code and information of build. This container is portable and deployed everywhere. 
 Docker container has:
 * Code
 * Dependences
@@ -39,7 +39,7 @@ To install Docker on a machine it has to satisfy the below software and hardware
 * BIOS-level hardware virtualization support must be enabled in the BIOS settings. 
 
 ### Procedure
-In this procedure I am sharing my experiences when installing docker
+In this procedure I am sharing my experiences while installing docker on my device
 Do this following:
 1. To download Docker visit https://docs.docker.com/desktop/windows/install/.
 1. Click on **Docker Desktop for windows**, it downloads the **Docker Desktop Installer.exe** file. Double click on **Docker Desktop Installer.exe**. see the following figure.
@@ -48,13 +48,13 @@ Do this following:
 1. Allow access to install application (For windows). The *Docker Desktop* window is prompted then it download docker packages. see the following figure.
 ![Installdocker1](Images_DockerInstall/Install%202.jpg)
 
-1. When Download is done, *Docker Desktop* window is Transformed to *Configuration* window. In *Configuration* window ensure to check **Install required Windows components for WSL 2** then Click **OK** as shown in figure below.
+1. When Download is done, *Docker Desktop* window is Transformed to *Configuration* window. In *Configuration* window ensure to check **Install required Windows components for WSL 2**, then Click **OK** as shown in figure below.
 ![Installdocker1](Images_DockerInstall/Install%203.jpg)
 
 1. *Docker Desktop 3.6.0* window is prompted and it automatically unpack the Files and install as shown in below figure
 ![Installdocker1](Images_DockerInstall/Install%204.png) 
 
-1. The Installing *Docker 3.6.0* window is transformed and shows installation succeeded as shown in figure below. 
+1. The *Installing Docker 3.6.0* window is transformed and shows installation succeeded as shown in figure below. 
 ![Installdocker1](Images_DockerInstall/Install%205.png)
 
 1. Click on **Close and restart** to complete the installation process. 
