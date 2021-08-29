@@ -42,8 +42,8 @@ To install Docker on a machine it has to satisfy the below software and hardware
 In this procedure I am sharing my experiences when installing docker
 Do this following:
 1. To download Docker visit https://docs.docker.com/desktop/windows/install/.
-2. 
-3. Click on **Docker Desktop for windows**, it downloads the **Docker Desktop Installer.exe** file. Double click on **Docker Desktop Installer.exe**. see the following figure.
+
+1. Click on **Docker Desktop for windows**, it downloads the **Docker Desktop Installer.exe** file. Double click on **Docker Desktop Installer.exe**. see the following figure.
 ![Installdocker1](Images_DockerInstall/Install%201.png)
 
 1. Allow access to install application (For windows). The *Docker Desktop* window is prompted then it download docker packages. see the following figure.
